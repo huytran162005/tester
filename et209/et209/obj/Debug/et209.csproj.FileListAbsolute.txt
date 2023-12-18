@@ -5,3 +5,10 @@ C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.csproj.AssemblyReference
 C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.exe
 C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.pdb
+D:\tesstttt\et209\et209\bin\Debug\et209.exe.config
+D:\tesstttt\et209\et209\bin\Debug\et209.exe
+D:\tesstttt\et209\et209\bin\Debug\et209.pdb
+D:\tesstttt\et209\et209\obj\Debug\et209.csproj.AssemblyReference.cache
+D:\tesstttt\et209\et209\obj\Debug\et209.csproj.CoreCompileInputs.cache
+D:\tesstttt\et209\et209\obj\Debug\et209.exe
+D:\tesstttt\et209\et209\obj\Debug\et209.pdb

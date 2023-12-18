@@ -10,7 +10,7 @@ namespace et209
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tk hieu bij ao tuong ");
+            Console.WriteLine("Thang hieu chac chan bi ao tuong ");
             Console.ReadLine();
 
         }
