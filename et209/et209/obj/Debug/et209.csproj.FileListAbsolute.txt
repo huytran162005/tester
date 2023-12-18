@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\et209\et209\bin\Debug\et209.exe.config
+C:\Users\ADMIN\source\repos\et209\et209\bin\Debug\et209.exe
+C:\Users\ADMIN\source\repos\et209\et209\bin\Debug\et209.pdb
+C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.exe
+C:\Users\ADMIN\source\repos\et209\et209\obj\Debug\et209.pdb
